@@ -1,0 +1,54 @@
+1)Which of these best describes an array?
+
+a. A dato structure that  shows hierarchical behavior 
+b. container of objects of similar types
+c. Array are immutable once in initialised
+d. Array is not a data structure
+Answer : b. container of objects of similar types
+
+ 
+2)which of the following is the correct way to declorea multi dimensional array in Java
+
+a. int[] arr;
+b. an arr[[]];
+c. int[][] arr;
+d. int[[]] air;
+Answer : c. int[][] arr;
+
+
+3)In general, the index of the first element in an array is_____
+
+a. 0
+b. -1
+c. 2
+d. 1
+Answer : a. 0
+
+
+4)Assuming int is of 4 bytes, what as the size of intarr[15]; ?
+
+a. 15
+b.19
+c.11
+d.60
+Answer : d.60
+
+
+5)what as the output of the following Java Code?
+
+Public class array
+{
+
+    public static void main(String args[])
+   {
+
+           int []arr = {1,2,3,4,5}; 
+           System.out.printin (arv [5]);
+    }
+}
+
+a. 4
+d. 5
+c. Array Inder OutdBounds Exception
+d. In avlid Input Exception
+Answer : c. Array Inder OutdBounds Exception
